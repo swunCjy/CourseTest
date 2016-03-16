@@ -1,2 +1,2 @@
 # CourseTest
-my android course samples
+my first android course test sample. oh, my test!
